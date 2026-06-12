@@ -16,7 +16,7 @@ This notebook compares vanilla YOLOv11 inference against SAHI (Slicing Aided Hyp
 |---|---|---|
 | YOLOv11n | COCO pretrained | Vanilla inference |
 | YOLOv11n + SAHI | COCO pretrained | Sliced inference |
-| DINOv2 ViT-B/14 | Self-supervised pretrained | Patch feature extraction |
+| DINOv3 ViT-B/14 | Self-supervised pretrained | Patch feature extraction |
 
 No training involved. Pretrained weights only.
 
